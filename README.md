@@ -87,4 +87,8 @@ components/shared/app-logo.tsx
 
 // edit page.tsx in app folder
 
+//pnpm add next-auth@beta bcryptjs
+
+//pnpm add -D @types/bcryptjs
+
 
